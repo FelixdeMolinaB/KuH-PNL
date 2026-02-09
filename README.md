@@ -19,6 +19,8 @@ Incremento del número de clientes registrados, aumento de la tasa de conversió
 ```
 
 **Diagrama de flujo del proceso**
+```
+```
 ![Diagrama de flujo del proceso de desarrollo](./images/diagrama_desarrollo_KuH_s.png)
 ```
 KuH se basa en Python como lenguaje de programación principal.
@@ -55,7 +57,6 @@ Las imágenes de contenedor se almacenan y comparten desde DockerHub, mientras q
 ├── streamlit.py
 └── test.py
 ```
-
 
 **Requisitos para una completa ejecución**
 ```
