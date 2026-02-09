@@ -1,7 +1,5 @@
 # **"KUH, ASISTENTE VIRTUAL"**
-```
 Proyecto de Data Engineering, febrero 2026
-```
 
 **Antecedentes**
 ```
@@ -79,8 +77,9 @@ streamlit run streamlit.py
 
 --OPCIÓN 2: desde Docker--
 Disponible a mediados de febrero de 2026.
-![alt text](./images/image.png)
 ```
+![alt text](./images/image.png)
+
 **Autor**
 ```
 Félix de Molina
@@ -90,8 +89,9 @@ Félix de Molina
 **Licencia** 
 ```
 CC BY NC
-![imagen licencia](https://www.upo.es/biblioteca/servicios/pubdig/propiedadintelectual/tutoriales/derechos_autor/images/pic034.png)
 ```
+![imagen licencia](https://www.upo.es/biblioteca/servicios/pubdig/propiedadintelectual/tutoriales/derechos_autor/images/pic034.png)
+
 
 **Nota del autor**: 
 ```
