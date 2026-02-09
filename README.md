@@ -17,8 +17,7 @@ Incremento del número de clientes registrados, aumento de la tasa de conversió
 ```
 
 **Diagrama de flujo del proceso**
-```
-```
+
 ![Diagrama de flujo del proceso de desarrollo](./images/diagrama_desarrollo_KuH_s.png)
 ```
 KuH se basa en Python como lenguaje de programación principal.
