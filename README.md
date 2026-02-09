@@ -56,6 +56,7 @@ Las imágenes de contenedor se almacenan y comparten desde DockerHub, mientras q
 └── test.py
 ```
 
+
 **Requisitos para una completa ejecución**
 ```
 --OPCIÓN 1: desde GitHub--
@@ -77,7 +78,7 @@ streamlit run streamlit.py
 
 --OPCIÓN 2: desde Docker--
 Disponible a mediados de febrero de 2026.
-![alt text](image.png)
+![alt text](./images/image.png)
 ```
 **Autor**
 ```
